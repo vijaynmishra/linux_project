@@ -5,7 +5,7 @@
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Bhav Simar"
+STUDENT_NAME="Vijay Naveen Mishra"
 SOFTWARE_CHOICE="Python"
 
 # System information
